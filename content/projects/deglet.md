@@ -12,3 +12,5 @@ asideDemo = "[deglet.xyz](http://deglet.xyz)"
 +++
 
 ### An open source, client-side, multi-signature Bitcoin wallet ready to plug-in to a brokerage or similar service.
+
+### Ready to use via Web, API, and easily extendable to a native app.
