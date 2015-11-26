@@ -7,10 +7,10 @@ title = "bitjws"
 logo = "B"
 mainurl = "https://github.com/deginner/bitjws"
 
-asideTechnologies = ["Python"]
+asideTechnologies = ["Python", "JWS"]
 asideSourceCode = "[Github](https://github.com/deginner/bitjws)"
 +++
 
-### big para 1
+### Authentication based on Bitcoin message signing.
 
-### big para 2
+### Maintain user privacy and integrity by integrating Bitjws into your application.

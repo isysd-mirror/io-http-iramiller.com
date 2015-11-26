@@ -11,6 +11,4 @@ asideTechnologies = ["JavaScript", "React", "Bitcore"]
 asideDemo = "[deglet.xyz](http://deglet.xyz)"
 +++
 
-### Description description description, description, and description. Description description description, description, and description.
-
-### Description description description, description, and description.
+### An open source, client-side, multi-signature Bitcoin wallet ready to plug-in to a brokerage or similar service.
