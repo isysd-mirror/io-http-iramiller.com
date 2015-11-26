@@ -103,13 +103,6 @@ section {
   left: 8rem;
 }
 
-.project-dev-section aside {
-  position: absolute;
-  max-width: 22rem;
-  top: 0;
-  left: 4rem;
-}
-
 .project-dev-section aside p {
   margin: 0;
 }
@@ -248,7 +241,12 @@ h5 {
   position: relative;
 }
 
-.project-dev-section, .project-upcoming-section {
+.project-dev-section {
+  clear: both;
+  margin: 1.5rem 1rem 1.5rem 0;
+}
+
+.project-upcoming-section {
   margin: 1.5rem 0;
 }
 
@@ -269,6 +267,14 @@ h5 {
   text-transform: uppercase;
   padding-top: 1rem;
   margin-top: 1.75rem;
+}
+
+.project-dev-section header {
+  float: left;
+  margin-top: 0;
+  padding-top: 0;
+  padding-right: 1rem;
+  font-weight: 400;
 }
 
 .project-upcoming-section header {

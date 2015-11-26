@@ -38,9 +38,11 @@
     <header>In Development</header>
     {{ range where .Data.Pages "Section" "devProjects" }}
     <section class="project-dev-section">
-      <a href="{{ .Params.mainurl }}" target="_blank">
-        {{ partial "project_logo.html" . }}
-      </a>
+      <header>
+        <a href="{{ .Params.mainurl }}" target="_blank">
+          {{ partial "project_logo.html" . }}
+        </a>
+      </header>
       <aside>
         <p class="project-dev-title">{{ .Title }}</p>
         {{ .Content }}
