@@ -19,14 +19,20 @@ type = "siteMain"
   <input type='text' style='display:none;' name='xmIwtLD' value='be71074d0bfc53517421f4618a1d4dd44a80f2338d5ffacd25da830cd36ba5bb'/>
   <input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
 
-  <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;deginner.com' />
+  <input type='text' style='display:none;' name='returnURL' value='{{% baseurl %}}' />
    <!-- Required internal fields. -->
 
   <div class="form-row">
-    <label for="name">Name
+    <label for="firstname">Name
       <span class="form-error" id="error-name">Please specify your name</span>
     </label>
-    <input type="text" maxlength="120" name="name" id="name">
+    <div class="form-half-row" style="padding-right: 2%">
+      <input type="text" maxlength="40" name="First Name" id="firstname"
+          placeholder="First">
+    </div><div class="form-half-row">
+      <input type="text" maxlength="80" name="Last Name" id="lastname"
+          placeholder="Last">
+    </div>
   </div>
 
   <div class="form-row">
@@ -35,7 +41,12 @@ type = "siteMain"
         Please specify your email so we can communicate with you
       </span>
     </label>
-    <input type="text" maxlength="100" name="email" id="email">
+    <input type="text" maxlength="100" name="Email" id="email">
+  </div>
+
+  <div class="form-row">
+    <label for="company">Company <span class="contact-info">optional</span></label>
+    <input type="text" maxlength="100" name="Company">
   </div>
 
   <div class="form-row">
@@ -44,7 +55,7 @@ type = "siteMain"
         We will need some message to know what you are after
       </span>
     </label>
-    <textarea name="message" id="message" cols="40" rows="10"></textarea>
+    <textarea name="Description" id="message" cols="40" rows="10"></textarea>
   </div>
 
   <div class="form-align">
@@ -54,7 +65,7 @@ request.</span>
   </div>
 
   <script>
-    var fields = ['name', 'email', 'message'];
+    var fields = ['firstname', 'lastname', 'email', 'message'];
     var basicEmail = /^[^ @]+@([^ @]+){2,}\.([^ @]+){2,}$/;
 
     function checkMandatory() {
@@ -76,7 +87,11 @@ request.</span>
 
           if (failed) {
             fieldObj.focus();
-            var err = document.getElementById('error-' + fields[i]);
+            var name = fields[i];
+            if (name.endsWith('name')) {
+              name = 'name';
+            }
+            var err = document.getElementById('error-' + name);
             if (err) {
               err.style.display = 'block';
             }

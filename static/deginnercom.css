@@ -346,6 +346,12 @@ h5 {
 
 .form-row {
   width: 100%;
+  text-align: left;
+}
+
+.form-half-row {
+  width: 49%;
+  display: inline-block;
 }
 
 .form-align {
@@ -485,5 +491,9 @@ input[type=submit]:hover {
 
   .contact-info::before, .contact-info::after {
     content: "";
+  }
+
+  .form-half-row {
+    width: 100%;
   }
 }
