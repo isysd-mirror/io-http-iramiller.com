@@ -7,6 +7,7 @@ languageCode = "en-us"
   language = "en"
   encoding = "utf-8"
   keywords = ["Python", "JavaScript", "Test"]
+  description = "A static website that has no description"
 
   # Top section of the website.
   topAnchor = "top"
