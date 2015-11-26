@@ -8,4 +8,4 @@ logo = "A"
 mainurl = "https://github.com/deginner"
 +++
 
-Short description.
+A collection of core packages for building secure and decentralized applications.

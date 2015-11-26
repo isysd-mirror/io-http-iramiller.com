@@ -8,4 +8,4 @@ logo = "C"
 mainurl = "https://github.com/deginner"
 +++
 
-Short description.
+Cosign across numerous multi-signature wallets via a simple API.

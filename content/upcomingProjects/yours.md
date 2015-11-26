@@ -9,4 +9,6 @@ mainurl = "#Contact"
 +++
 
 Something something something, something. Also something and something,
-something.
+something. [Bitcoin exchanges](https://github.com/deginner/bitcoin_exchanges),
+[Lamassu](https://github.com/coinapult/lamassu-coinapult), blurb blurb
+blurb. Blurb blurb, blurb blurb blurb.

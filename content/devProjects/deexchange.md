@@ -8,4 +8,4 @@ logo = "E"
 mainurl = "https://github.com/deginner"
 +++
 
-Short description.
+A two component package composed of an automated exchange broker and an orderbook manager.

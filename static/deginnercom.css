@@ -96,13 +96,6 @@ section {
   top: 1rem;
 }
 
-.project-upcoming-section aside {
-  position: absolute;
-  min-width: 12rem;
-  top: 0;
-  left: 8rem;
-}
-
 .project-dev-section aside p {
   margin: 0;
 }
@@ -243,16 +236,11 @@ h5 {
 
 .project-dev-section {
   clear: both;
-  margin: 1.5rem 1rem 1.5rem 0;
+  margin: 1.5rem 2rem 1.5rem 0;
 }
 
 .project-upcoming-section {
   margin: 1.5rem 0;
-}
-
-.project-upcoming-section {
-  display: inline-block;
-  width: 100%;
 }
 
 .float-section {
@@ -278,19 +266,16 @@ h5 {
 }
 
 .project-upcoming-section header {
-  display: inline-block;
+  float: left;
+  padding-right: 2rem;
   width: 6.75rem;
   text-align: center;
   padding-top: 0;
   margin-top: 0;
 }
 
-.section-65 {
-  width: 65%;
-}
-
-.section-25 {
-  width: 25%;
+.section-50 {
+  width: 50%;
 }
 
 .simple-generic-logo {
@@ -472,15 +457,13 @@ input[type=submit]:hover {
     border-bottom: 1px solid gray;
   }
 
+  .project-dev-section {
+    margin-right: 0;
+  }
+
   .float-section {
     float: none;
     width: 90%;
-  }
-
-  .project-upcoming-section aside {
-    position: relative;
-    top: 1rem;
-    left: 0;
   }
 
 
