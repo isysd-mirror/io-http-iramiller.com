@@ -57,7 +57,7 @@
         {{ $tmpl := (.Params.anchor | lower) | printf "%s.html" }}
         {{ partial $tmpl $ }}
       {{ else }}
-      <section>
+      <section class="small-padding">
         {{ .Content }}
       </section>
       {{ end }}

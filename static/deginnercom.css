@@ -426,10 +426,12 @@ input[type=submit]:hover {
 
   main header {
     margin-top: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   main footer {
-    margin-top: 2.5rem;
+    margin-top: 0;
     padding-left: 0;
     padding-right: 0;
   }
@@ -480,6 +482,11 @@ input[type=submit]:hover {
 
   .left-section {
     width: 90%;
+  }
+
+  .small-padding {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
 
