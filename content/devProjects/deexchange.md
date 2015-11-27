@@ -8,6 +8,4 @@ logo = "E"
 mainurl = "https://github.com/deginner"
 +++
 
-An in-memory orderbook and matching engine for an exchange.
-
-Each Exchange Node operates a single orderbook, representing a currency pair (i.e. BTC/USD). Unifying the nodes into a single user experience is done in the client, or using [De Broker]({{< ref "debroker" >}}).
+An orderbook and matching engine for an exchange, using [redis](http://redis.io/) and [amqp](http://amqp.org). Each Exchange Node operates a single orderbook, representing a currency pair (i.e. BTC/USD), and can handle over 1000 trades per second.

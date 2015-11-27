@@ -8,7 +8,6 @@ logo = "Y"
 mainurl = "#Contact"
 +++
 
-Something something something, something. Also something and something,
-something. [Bitcoin exchanges](https://github.com/deginner/bitcoin_exchanges),
-[Lamassu](https://github.com/coinapult/lamassu-coinapult), blurb blurb
-blurb. Blurb blurb, blurb blurb blurb.
+The Deginner team has years of experience building everything from embedded systems and secure financial services to peer-to-peer (p2p) applications. Our software powers [Coinapult](https://coinapult.com), [Crypto Capital](http://cryptocapital.co/), some [Lamassu](http://lamassu.is/) BTMs, and more.  
+
+If you have a project that you need help with, please [contact us](#Contact), below.

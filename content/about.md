@@ -8,4 +8,4 @@ anchor = "About"
 type = "siteMain"
 +++
 
-### Description description description, description, and description. Description description description, description, and description.
+### Deginner is an open source software development company with a focus on p2p, cryptocurrency and entrepreneurship. We build and maintain a number of software tools. All are open source, and can be mixed and matched to create a wide variety of services and user experiences.
