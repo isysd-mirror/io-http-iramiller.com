@@ -16,7 +16,7 @@ languageCode = "en-us"
   tagline = "Building open source things and putting 'D's in the names instead of 'bit's and 'coin's"
 
   # Top actions. Action format: [text, anchor]
-  mainAction = ["Action", "Contact"]
+  mainAction = ["Contact Us", "Contact"]
   secondaryAction = ["Projects &nbsp; ›", "Projects"]
 
 [blackfriday]
