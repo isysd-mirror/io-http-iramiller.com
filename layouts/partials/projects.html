@@ -34,7 +34,7 @@
 <section>
 
   {{ if gt (len (where .Data.Pages "Section" "devProjects")) 0 }}
-  <section class="float-section section-50">
+  <section class="left-section">
     <header>In Development</header>
     {{ range where .Data.Pages "Section" "devProjects" }}
     <section class="project-dev-section">
@@ -53,7 +53,7 @@
   {{ end }}
 
   {{ if gt (len (where .Data.Pages "Section" "upcomingProjects")) 0 }}
-  <section class="float-section section-50">
+  <section class="left-section">
     <header>Upcoming</header>
     {{ range where .Data.Pages "Section" "upcomingProjects" }}
     <section class="project-upcoming-section">
