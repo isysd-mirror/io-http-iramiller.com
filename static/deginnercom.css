@@ -241,7 +241,7 @@ h5 {
 
 .project-upcoming-section {
   margin: 1.5rem 0;
-  background: white;
+  background: #F9F9F9;
   padding: 2rem 2rem 1rem 2rem;
   border: 1px outset #DEDEDE;
 }
@@ -470,7 +470,6 @@ input[type=submit]:hover {
 
   .project-upcoming-section {
     padding: 2rem 1rem 0.5rem 1rem;
-    text-align: center;
   }
 
   .project-upcoming-section header {
