@@ -9,16 +9,15 @@ type = "siteMain"
 +++
 
 <form action='https://crm.zoho.com/crm/WebToLeadForm'
-      name=WebToLeads1729302000000106047 method='POST'
+      name=WebToLeads1729302000000110005 method='POST'
       onSubmit='return checkMandatory()'
       accept-charset='UTF-8'>
 
   <!-- Required internal fields. -->
   <input type='text' style='display:none;' name='xnQsjsdp' value='d3b1137b095581ac2be866e9362c6bfc11145c48a5400dfa6fa30f2d967cfd47'/>
   <input type='hidden' name='zc_gad' id='zc_gad' value=''/>
-  <input type='text' style='display:none;' name='xmIwtLD' value='be71074d0bfc53517421f4618a1d4dd44a80f2338d5ffacd25da830cd36ba5bb'/>
+  <input type='text' style='display:none;' name='xmIwtLD' value='be71074d0bfc53517421f4618a1d4dd475cb7cbfe70d9e4ca13467b7e27c9a54'/>
   <input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
-
   <input type='text' style='display:none;' name='returnURL' value='{{% baseurl %}}' />
    <!-- Required internal fields. -->
 
@@ -46,7 +45,7 @@ type = "siteMain"
 
   <div class="form-row">
     <label for="company">Company <span class="contact-info">optional</span></label>
-    <input type="text" maxlength="100" name="Company">
+    <input type="text" maxlength="100" name="Company" id="company">
   </div>
 
   <div class="form-row">
@@ -55,7 +54,7 @@ type = "siteMain"
         We will need some message to know what you are after
       </span>
     </label>
-    <textarea name="Description" id="message" cols="40" rows="10"></textarea>
+    <textarea name="Description" id="message" cols="40" rows="10" maxlength="1000"></textarea>
   </div>
 
   <div class="form-align">
