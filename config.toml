@@ -1,5 +1,5 @@
 title = "Deginner"
-baseurl = "http://deginner.com"
+baseurl = "https://deginner.com"
 languageCode = "en-us"
 
 [params]
