@@ -8,4 +8,4 @@ anchor = "About"
 type = "siteMain"
 +++
 
-### Deginner is an open source software development company with a focus on decentralized, trustless technology and public blockchains. All of our projects are free to use, modify, and extend, but we also offer comprehensive support and partnerships to select teams.
+### Deginner is an <b>open source</b> software development company with a focus on <b>decentralized</b>, trustless technology and public blockchains. All of our projects are <b>free</b> to use, modify, and extend, but we also offer comprehensive support and <b>partnerships</b> to select teams.
