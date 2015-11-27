@@ -13,7 +13,7 @@ languageCode = "en-us"
   topAnchor = "top"
   logo = "http://i.imgur.com/MINlVoa.png"
   title = "Deginner"
-  tagline = "Something. Very. Interesting"
+  tagline = "Building open source things and putting 'D's in the names instead of 'bit's and 'coin's"
 
   # Top actions. Action format: [text, anchor]
   mainAction = ["Action", "Contact"]

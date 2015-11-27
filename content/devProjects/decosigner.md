@@ -8,4 +8,4 @@ logo = "C"
 mainurl = "https://github.com/deginner"
 +++
 
-Cosign across numerous multi-signature wallets via a simple API.
+Cosign across numerous multi-signature wallets via a simple API. Two-factor authentication with key separation.
