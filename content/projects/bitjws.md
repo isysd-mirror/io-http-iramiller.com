@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 1
 date = "2015-11-25T20:59:16-05:00"
 draft = false
 title = "bitjws"
@@ -7,7 +7,7 @@ title = "bitjws"
 logo = "B"
 mainurl = "https://github.com/deginner/bitjws"
 
-asideTechnologies = ["Python", "JWS"]
+asideTechnologies = ["Bitcoin", "JWS"]
 asideSourceCode = "[Github](https://github.com/deginner/bitjws)"
 +++
 
