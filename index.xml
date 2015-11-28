@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deginner</title>
+    <link>https://deginner.com/</link>
+    <description>Recent content on Deginner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2015 23:11:06 -0500</lastBuildDate>
+    <atom:link href="https://deginner.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Deginner</title>
+      <link>https://deginner.com/about/</link>
+      <pubDate>Wed, 25 Nov 2015 23:11:06 -0500</pubDate>
+      
+      <guid>https://deginner.com/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;deginner-is-an-b-open-source-b-software-development-company-with-a-focus-on-b-decentralized-b-trustless-technology-and-public-blockchains-all-of-our-projects-are-b-free-b-to-use-modify-and-extend-but-we-also-offer-comprehensive-support-and-b-partnerships-b-to-select-teams:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Deginner is an &lt;b&gt;open source&lt;/b&gt; software development company with a focus on &lt;b&gt;decentralized&lt;/b&gt;, trustless technology and public blockchains. All of our projects are &lt;b&gt;free&lt;/b&gt; to use, modify, and extend, but we also offer comprehensive support and &lt;b&gt;partnerships&lt;/b&gt; to select teams.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>yours</title>
+      <link>https://deginner.com/upcomingProjects/yours/</link>
+      <pubDate>Wed, 25 Nov 2015 22:07:23 -0500</pubDate>
+      
+      <guid>https://deginner.com/upcomingProjects/yours/</guid>
+      <description>&lt;p&gt;The Deginner team has years of experience building everything from embedded systems and secure financial services to peer-to-peer (p2p) applications. Our software powers &lt;a href=&#34;https://coinapult.com&#34;&gt;Coinapult&lt;/a&gt;, &lt;a href=&#34;http://cryptocapital.co/&#34;&gt;Crypto Capital&lt;/a&gt;, select &lt;a href=&#34;http://lamassu.is/&#34;&gt;Lamassu&lt;/a&gt; BTMs, and more.&lt;/p&gt;
+
+&lt;p&gt;If you have a project that you need help with, please &lt;a href=&#34;#Contact&#34;&gt;contact us&lt;/a&gt;, below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bitjws</title>
+      <link>https://deginner.com/projects/bitjws/</link>
+      <pubDate>Wed, 25 Nov 2015 20:59:16 -0500</pubDate>
+      
+      <guid>https://deginner.com/projects/bitjws/</guid>
+      <description>
+
+&lt;h3 id=&#34;authentication-based-on-bitcoin-message-signing:3c7307ebff93ffd69f3b3085abe6753e&#34;&gt;Authentication based on Bitcoin message signing.&lt;/h3&gt;
+
+&lt;h3 id=&#34;maintain-user-privacy-and-integrity-by-integrating-bitjws-into-your-application:3c7307ebff93ffd69f3b3085abe6753e&#34;&gt;Maintain user privacy and integrity by integrating Bitjws into your application.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://deginner.com/projects/</link>
+      <pubDate>Wed, 25 Nov 2015 23:11:06 -0500</pubDate>
+      
+      <guid>https://deginner.com/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Exchange Node</title>
+      <link>https://deginner.com/devProjects/deexchange/</link>
+      <pubDate>Wed, 25 Nov 2015 21:34:51 -0500</pubDate>
+      
+      <guid>https://deginner.com/devProjects/deexchange/</guid>
+      <description>&lt;p&gt;An orderbook and matching engine for an exchange, using &lt;a href=&#34;http://redis.io/&#34;&gt;redis&lt;/a&gt; and &lt;a href=&#34;http://amqp.org&#34;&gt;amqp&lt;/a&gt;. Each Exchange Node operates a single orderbook, representing a currency pair (i.e. BTC/USD), and can handle over 1000 trades per second.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>deglet</title>
+      <link>https://deginner.com/projects/deglet/</link>
+      <pubDate>Wed, 25 Nov 2015 18:47:16 -0500</pubDate>
+      
+      <guid>https://deginner.com/projects/deglet/</guid>
+      <description>
+
+&lt;h3 id=&#34;an-open-source-client-side-multi-signature-bitcoin-wallet-ready-to-plug-in-to-a-brokerage-or-similar-service:8912dd123c22483011f7a550d03f31c9&#34;&gt;An open source, client-side, multi-signature Bitcoin wallet ready to plug-in to a brokerage or similar service.&lt;/h3&gt;
+
+&lt;h3 id=&#34;ready-to-use-via-web-api-and-easily-extendable-to-a-native-app:8912dd123c22483011f7a550d03f31c9&#34;&gt;Ready to use via Web, API, and easily extendable to a native app.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://deginner.com/contact/</link>
+      <pubDate>Wed, 25 Nov 2015 23:11:06 -0500</pubDate>
+      
+      <guid>https://deginner.com/contact/</guid>
+      <description>&lt;form action=&#39;https://crm.zoho.com/crm/WebToLeadForm&#39;
+      name=WebToLeads1729302000000110005 method=&#39;POST&#39;
+      onSubmit=&#39;return checkMandatory()&#39;
+      accept-charset=&#39;UTF-8&#39;&gt;
+
+  &lt;!-- Required internal fields. --&gt;
+  &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xnQsjsdp&#39; value=&#39;d3b1137b095581ac2be866e9362c6bfc11145c48a5400dfa6fa30f2d967cfd47&#39;/&gt;
+  &lt;input type=&#39;hidden&#39; name=&#39;zc_gad&#39; id=&#39;zc_gad&#39; value=&#39;&#39;/&gt;
+  &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;be71074d0bfc53517421f4618a1d4dd475cb7cbfe70d9e4ca13467b7e27c9a54&#39;/&gt;
+  &lt;input type=&#39;text&#39; style=&#39;display:none;&#39;  name=&#39;actionType&#39; value=&#39;TGVhZHM=&#39;/&gt;
+  &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;https://deginner.com&#39; /&gt;
+   &lt;!-- Required internal fields. --&gt;
+
+  &lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;firstname&#34;&gt;Name
+      &lt;span class=&#34;form-error&#34; id=&#34;error-name&#34;&gt;Please specify your name&lt;/span&gt;
+    &lt;/label&gt;
+    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
+      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;First Name&#34; id=&#34;firstname&#34;
+          placeholder=&#34;First&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;form-half-row&#34;&gt;
+      &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Last Name&#34; id=&#34;lastname&#34;
+          placeholder=&#34;Last&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;Email
+      &lt;span class=&#34;form-error&#34; id=&#34;error-email&#34;&gt;
+        Please specify your email so we can communicate with you
+      &lt;/span&gt;
+    &lt;/label&gt;
+    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Email&#34; id=&#34;email&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;company&#34;&gt;Company &lt;span class=&#34;contact-info&#34;&gt;optional&lt;/span&gt;&lt;/label&gt;
+    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Company&#34; id=&#34;company&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Message
+      &lt;span class=&#34;form-error&#34; id=&#34;error-message&#34;&gt;
+        We will need some message to know what you are after
+      &lt;/span&gt;
+    &lt;/label&gt;
+    &lt;textarea name=&#34;Description&#34; id=&#34;message&#34; cols=&#34;40&#34; rows=&#34;10&#34; maxlength=&#34;1000&#34;&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;form-align&#34;&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Send&#34;&gt;
+    &lt;span class=&#34;contact-info&#34;&gt;You will receive a copy of this contact
+request.&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;script&gt;
+    var fields = [&#39;firstname&#39;, &#39;lastname&#39;, &#39;email&#39;, &#39;message&#39;];
+    var basicEmail = /^[^ @]+@([^ @]+){2,}\.([^ @]+){2,}$/;
+
+    function checkMandatory() {
+      /* Hide any errors. */
+      var allErrors = document.getElementsByClassName(&#39;form-error&#39;);
+      for (var i = 0; i &lt; allErrors.length; i++) {
+        allErrors[i].style.display = &#39;none&#39;;
+      }
+
+      /* Validate the form. */
+      var form = document.forms[&#39;WebToLeads1729302000000110005&#39;];
+      for (var i = 0; i &lt; fields.length; i++) {
+        var fieldObj = form[fields[i]];
+        if (fieldObj) {
+          var failed = fieldObj.value.replace(/^\s+|\s+$/g, &#39;&#39;).length === 0;
+          if (!failed &amp;&amp; fields[i] === &#39;email&#39;) {
+            failed = !basicEmail.test(fieldObj.value);
+          }
+
+          if (failed) {
+            fieldObj.focus();
+            var name = fields[i];
+            if (name.endsWith(&#39;name&#39;)) {
+              name = &#39;name&#39;;
+            }
+            var err = document.getElementById(&#39;error-&#39; + name);
+            if (err) {
+              err.style.display = &#39;block&#39;;
+            }
+            return false;
+          }
+        }
+      }
+    }
+  &lt;/script&gt;
+&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De Exchange Broker</title>
+      <link>https://deginner.com/devProjects/debroker/</link>
+      <pubDate>Wed, 25 Nov 2015 21:34:51 -0500</pubDate>
+      
+      <guid>https://deginner.com/devProjects/debroker/</guid>
+      <description>&lt;p&gt;An automated asset exchange broker, which will create and fill guaranteed quotes for users. A custom exchange backend or De Exchange Node can be used for clearing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De Shared Wallet</title>
+      <link>https://deginner.com/devProjects/desharedwallet/</link>
+      <pubDate>Wed, 25 Nov 2015 21:34:51 -0500</pubDate>
+      
+      <guid>https://deginner.com/devProjects/desharedwallet/</guid>
+      <description>&lt;p&gt;Send, receive, and store balances on behalf of users or other applications. This centralized service is a less secure but sometimes necessary suppliment for client-controlled keys, such as provided by &lt;a href=&#34;#Projects&#34;&gt;Deglet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De Cosigner</title>
+      <link>https://deginner.com/devProjects/decosigner/</link>
+      <pubDate>Wed, 25 Nov 2015 21:34:51 -0500</pubDate>
+      
+      <guid>https://deginner.com/devProjects/decosigner/</guid>
+      <description>&lt;p&gt;Cosign across numerous multi-signature wallets via a simple API. Two-factor authentication with key separation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
