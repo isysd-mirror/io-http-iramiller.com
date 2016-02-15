@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Deginner</title>
-    <link>http://localhost:1314/contact/</link>
+    <link>http://deginner.com/contact/</link>
     <description>Recent content in Contacts on Deginner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1314/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://deginner.com/contact/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1314/contact/</link>
+      <link>http://deginner.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1314/contact/</guid>
+      <guid>http://deginner.com/contact/</guid>
       <description>&lt;form action=&#39;https://crm.zoho.com/crm/WebToLeadForm&#39;
       name=WebToLeads1729302000000110005 method=&#39;POST&#39;
       onSubmit=&#39;return checkMandatory()&#39;
@@ -24,7 +24,7 @@
   &lt;input type=&#39;hidden&#39; name=&#39;zc_gad&#39; id=&#39;zc_gad&#39; value=&#39;&#39;/&gt;
   &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;be71074d0bfc53517421f4618a1d4dd475cb7cbfe70d9e4ca13467b7e27c9a54&#39;/&gt;
   &lt;input type=&#39;text&#39; style=&#39;display:none;&#39;  name=&#39;actionType&#39; value=&#39;TGVhZHM=&#39;/&gt;
-  &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;http://localhost:1314/&#39; /&gt;
+  &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;http://deginner.com/&#39; /&gt;
    &lt;!-- Required internal fields. --&gt;
 
   &lt;div class=&#34;form-row&#34;&gt;

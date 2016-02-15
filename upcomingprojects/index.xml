@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Upcomingprojects on Deginner</title>
-    <link>http://localhost:1314/upcomingprojects/</link>
+    <link>http://deginner.com/upcomingprojects/</link>
     <description>Recent content in Upcomingprojects on Deginner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Nov 2015 22:07:23 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1314/upcomingprojects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://deginner.com/upcomingprojects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>yours</title>
-      <link>http://localhost:1314/upcomingProjects/yours/</link>
+      <link>http://deginner.com/upcomingProjects/yours/</link>
       <pubDate>Wed, 25 Nov 2015 22:07:23 -0500</pubDate>
       
-      <guid>http://localhost:1314/upcomingProjects/yours/</guid>
+      <guid>http://deginner.com/upcomingProjects/yours/</guid>
       <description>&lt;p&gt;The Deginner team has years of experience building everything from embedded systems and secure financial services to peer-to-peer (p2p) applications. Our software powers &lt;a href=&#34;https://coinapult.com&#34;&gt;Coinapult&lt;/a&gt;, &lt;a href=&#34;http://cryptocapital.co/&#34;&gt;Crypto Capital&lt;/a&gt;, select &lt;a href=&#34;http://lamassu.is/&#34;&gt;Lamassu&lt;/a&gt; BTMs, and more.&lt;/p&gt;
 
 &lt;p&gt;If you have a project that you need help with, please &lt;a href=&#34;#Contact&#34;&gt;contact us&lt;/a&gt;, below.&lt;/p&gt;
