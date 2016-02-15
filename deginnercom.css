@@ -16,9 +16,10 @@ b {
 }
 
 main {
-  max-width: 650px;
+  max-width: 850px;
   margin: 0 auto;
   margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 nav {
@@ -35,7 +36,7 @@ nav a {
 }
 
 main header {
-  margin-top: 6rem;
+  margin-top: 4rem;
 }
 
 main mark {
@@ -337,8 +338,6 @@ h5 {
   background: linear-gradient(135deg, rgba(0, 240, 255, 0.4) 0%, rgb(0, 42, 105) 100%);
 }
 
-
-
 .form-row {
   width: 100%;
   text-align: left;
@@ -421,10 +420,31 @@ input[type=submit]:hover {
   color: white;
 }
 
+/* Single */
+
+.responsive-img {
+  width: 100%;
+}
+
+.single-header {
+  border-bottom: 0;
+}
+
+.single-header ul {
+  display: table;
+  padding: 0;
+  width: 100%;
+}
+
+.single-header li {
+  display: table-cell;
+  vertical-align: middle;
+}
 
 @media (max-width: 999px) {
   main {
     margin-top: 0;
+    margin-bottom: 0;
   }
 
   main header {
@@ -444,6 +464,7 @@ input[type=submit]:hover {
   }
 
   nav a {
+    font-size: 16px;
     margin: 0 0.25rem;
     padding: 0.5rem;
   }
@@ -508,5 +529,19 @@ input[type=submit]:hover {
 
   .form-half-row {
     width: 100%;
+  }
+
+  .single-header li {
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 512px) {
+  .single-header ul {
+    display: block;
+  }
+
+  .single-header li {
+    display: block;
   }
 }
