@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Deginner</title>
-    <link>http://deginner.com/service/</link>
+    <link>http://localhost:1314/service/</link>
     <description>Recent content in Services on Deginner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Nov 2015 21:34:51 -0500</lastBuildDate>
-    <atom:link href="http://deginner.com/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/service/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>De Exchange Node</title>
-      <link>http://deginner.com/service/deexchange/</link>
+      <link>http://localhost:1314/service/deexchange/</link>
       <pubDate>Wed, 25 Nov 2015 21:34:51 -0500</pubDate>
       
-      <guid>http://deginner.com/service/deexchange/</guid>
+      <guid>http://localhost:1314/service/deexchange/</guid>
       <description>&lt;p&gt;An orderbook and matching engine for an exchange, using &lt;a href=&#34;http://redis.io/&#34;&gt;redis&lt;/a&gt; and &lt;a href=&#34;http://amqp.org&#34;&gt;amqp&lt;/a&gt;. Each Exchange Node operates a single orderbook, representing a currency pair (i.e. BTC/USD), and can handle over 1000 trades per second.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>De Shared Wallet</title>
-      <link>http://deginner.com/service/desharedwallet/</link>
+      <link>http://localhost:1314/service/desharedwallet/</link>
       <pubDate>Wed, 25 Nov 2015 21:34:51 -0500</pubDate>
       
-      <guid>http://deginner.com/service/desharedwallet/</guid>
+      <guid>http://localhost:1314/service/desharedwallet/</guid>
       <description>&lt;p&gt;Send, receive, and store balances on behalf of users or other applications. This centralized service is a less secure but sometimes necessary suppliment for client-controlled keys, such as provided by &lt;a href=&#34;#Projects&#34;&gt;Deglet&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

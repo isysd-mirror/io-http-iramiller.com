@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Deginner</title>
-    <link>http://deginner.com/projects/</link>
+    <link>http://localhost:1314/projects/</link>
     <description>Recent content in Projects on Deginner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Nov 2015 20:59:16 -0500</lastBuildDate>
-    <atom:link href="http://deginner.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>bitjws</title>
-      <link>http://deginner.com/projects/bitjws/</link>
+      <link>http://localhost:1314/projects/bitjws/</link>
       <pubDate>Wed, 25 Nov 2015 20:59:16 -0500</pubDate>
       
-      <guid>http://deginner.com/projects/bitjws/</guid>
+      <guid>http://localhost:1314/projects/bitjws/</guid>
       <description>
 
 &lt;h3 id=&#34;authentication-based-on-bitcoin-message-signing:3c7307ebff93ffd69f3b3085abe6753e&#34;&gt;Authentication based on Bitcoin message signing.&lt;/h3&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>deglet</title>
-      <link>http://deginner.com/projects/deglet/</link>
+      <link>http://localhost:1314/projects/deglet/</link>
       <pubDate>Wed, 25 Nov 2015 18:47:16 -0500</pubDate>
       
-      <guid>http://deginner.com/projects/deglet/</guid>
+      <guid>http://localhost:1314/projects/deglet/</guid>
       <description>
 
 &lt;h3 id=&#34;an-open-source-client-side-multi-signature-bitcoin-wallet-ready-to-plug-in-to-a-brokerage-or-similar-service:8912dd123c22483011f7a550d03f31c9&#34;&gt;An open source, client-side, multi-signature Bitcoin wallet ready to plug-in to a brokerage or similar service.&lt;/h3&gt;
