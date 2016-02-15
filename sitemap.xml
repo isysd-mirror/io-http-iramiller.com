@@ -2,93 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://isysd.github.io/</loc>
+    <loc>http://tigoctm.com/</loc>
     <lastmod>2015-11-25T23:11:06-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://isysd.github.io/about/</loc>
+    <loc>http://tigoctm.com/about/</loc>
     <lastmod>2015-11-25T23:11:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://isysd.github.io/incubator/</loc>
+    <loc>http://tigoctm.com/network/</loc>
     <lastmod>2015-11-25T23:11:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://isysd.github.io/upcomingProjects/yours/</loc>
-    <lastmod>2015-11-25T22:07:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/projects/bitjws/</loc>
-    <lastmod>2015-11-25T20:59:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/projects/</loc>
+    <loc>http://tigoctm.com/products/</loc>
     <lastmod>2015-11-25T23:11:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://isysd.github.io/devProjects/deexchange/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
+    <loc>http://tigoctm.com/how/</loc>
+    <lastmod>2015-11-25T23:11:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://isysd.github.io/service/deexchange/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/tool/deexchange/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/projects/deglet/</loc>
-    <lastmod>2015-11-25T18:47:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/devProjects/debroker/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/tool/debroker/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/devProjects/desharedwallet/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/service/desharedwallet/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/tool/desharedwallet/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/devProjects/decosigner/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isysd.github.io/tool/decosigner/</loc>
-    <lastmod>2015-11-25T21:34:51-05:00</lastmod>
+    <loc>http://tigoctm.com/contact/</loc>
   </url>
   
 </urlset>
