@@ -427,10 +427,13 @@ input[type=submit]:hover {
 }
 
 .single-header {
+<<<<<<< HEAD
+=======
   border-bottom: 0;
 }
 
 .single-header ul {
+>>>>>>> luis/single_style
   display: table;
   padding: 0;
   width: 100%;
@@ -440,6 +443,20 @@ input[type=submit]:hover {
   display: table-cell;
   vertical-align: middle;
 }
+<<<<<<< HEAD
+
+.single-header .site-logo {
+  display: table;
+  height: 42px;
+  width: auto;
+}
+
+.single-header nav {
+  border-bottom: 0;
+  text-align: right;
+}
+=======
+>>>>>>> luis/single_style
 
 @media (max-width: 999px) {
   main {
@@ -534,6 +551,8 @@ input[type=submit]:hover {
   .single-header li {
     padding: 0 10px;
   }
+<<<<<<< HEAD
+=======
 }
 
 @media (max-width: 512px) {
@@ -544,4 +563,5 @@ input[type=submit]:hover {
   .single-header li {
     display: block;
   }
+>>>>>>> luis/single_style
 }
