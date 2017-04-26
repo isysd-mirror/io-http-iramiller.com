@@ -27572,7 +27572,7 @@ module.exports={
     "picture": "https://iramiller.com/images/profile.png",
     "email": "public@iramiller.com",
     "website": "https://iramiller.com",
-    "summary": "Ira Miller is the Founder and Ambassador of the GitGuild. Advisor to Tigo CTM, Dash, Bitt and more fantastic projects.\n\nIra has founded many technology startups, lately focused on the blockchain sector. In 2012, Ira co-founded global payment processor Coinapult, selling the company in 2015 to pursue open source collaborative projects through the Guld.\n\n",
+    "summary": "Ira Miller is the Founder of Guld (coming soon). Advisor to Tigo CTM, Dash, Bitt and more fantastic projects.\n\nIra has founded many technology startups, lately focused on the blockchain sector. In 2012, Ira co-founded global payment processor Coinapult, selling the company in 2015 to pursue open source collaborative projects through the Guld.\n\n",
     "location": {
       "city": "Panama",
       "countryCode": "PA",
@@ -27710,7 +27710,18 @@ var Footer = function Footer() {
           _react2.default.createElement(
             'p',
             { className: 'text-muted float-left align-middle' },
-            '\xA9 2017 Ira Miller.'
+            'Content \xA9 2017 Ira Miller. license ',
+            _react2.default.createElement(
+              'a',
+              { href: 'https://spdx.org/licenses/CC-BY-4.0.html' },
+              'CC-by-4.0'
+            ),
+            ' | Theme by ',
+            _react2.default.createElement(
+              'a',
+              { href: 'https://bootswatch.com/' },
+              'bootswatch'
+            )
           )
         )
       )
