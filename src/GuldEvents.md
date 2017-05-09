@@ -10,7 +10,9 @@ Every Wed. at 7pm unless otherwise specified.
 
 ### Where
 
-Bar/Restaurant to be announced in San Francisco, Panama City, Panama.
+Restaurante El Charro Mexicano
+Calle 74
+San Francisco, Panama City, Panama
 
 ### Format
 
