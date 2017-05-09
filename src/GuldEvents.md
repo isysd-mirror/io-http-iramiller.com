@@ -1,6 +1,8 @@
 # Guld Events Schedule
 
-Starting next Wednesday May 17th, I will host a weekly event on a [guld](https://guld.io)-related topic. Whenever possible, these events will be a concerted effort with other groups like [PanaFintech](http://www.panafintech.com/), [PanamaJS Meetup](https://www.meetup.com/panamajs/), and [Panama Bitcoin meetup](https://www.meetup.com/Panama-Bitcoin/). Since guld is fintech, cryptocurrency, and JS, sometimes there will be constructive overlap.
+Starting next Wednesday May 17th, I will host a weekly event on a guld-related topic. [RSVP](https://www.meetup.com/panamajs/events/239824122/)  [details](images/guld-weekly-event-1.jpg)
+
+Whenever possible, these events will be a concerted effort with other groups like [PanaFintech](http://www.panafintech.com/), [Panama Bitcoin meetup](https://www.meetup.com/Panama-Bitcoin/), and [PanamaJS Meetup](https://www.meetup.com/panamajs/). Since guld is fintech, cryptocurrency, and JS, sometimes there will be constructive overlap.
 
 Though I or some other guld member will be prepared to present a topic each week, coordination and cross promotion are very important. We're open to suggestions to change agenda, location, or time of any week's event.
 
