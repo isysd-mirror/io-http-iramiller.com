@@ -30,4 +30,4 @@ Launch events will have different location and format.
 
 ### Organization
 
-For now coordination for future events should be done through [PanaFintech slack](panafintech.slack.com) and published to [Google calendar](https://calendar.google.com/calendar/embed?src=panafintech%40gmail.com&ctz=America/Panama).
+For now coordination for future events should be done through [PanaFintech slack](https://panafintech.slack.com) and published to [Google calendar](https://calendar.google.com/calendar/embed?src=panafintech%40gmail.com&ctz=America/Panama).
