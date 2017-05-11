@@ -1,6 +1,10 @@
 # Fintech Event Series
 
-Starting next Wednesday May 17th, I will host a weekly [PanaFintech](http://www.panafintech.com/) event. This event series focuses on technology, whereas the monthly PanaFintech events are more about business, networking, and awareness. [RSVP](https://www.meetup.com/panamajs/events/239824122/)  [details](images/guld-weekly-event-1.jpg)
+Starting next Wednesday May 17th, I will host a weekly [PanaFintech](http://www.panafintech.com/) event. This event series focuses on technology, whereas the monthly PanaFintech events are more about business, networking, and awareness.
+
++ [series details](images/PanaFintech_weekly.png)
+
++ [week 1](images/guld-weekly-event-1.jpg) [RSVP](https://www.meetup.com/panamajs/events/239824122/)
 
 Whenever possible, these events will be a concerted effort with other technical groups like, [Panama Bitcoin meetup](https://www.meetup.com/Panama-Bitcoin/), and [PanamaJS Meetup](https://www.meetup.com/panamajs/).
 
