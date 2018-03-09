@@ -352,7 +352,7 @@ module.exports = camelizeStyleName;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 var isTextNode = require('./isTextNode');
@@ -607,7 +607,7 @@ module.exports = createNodesFromMarkup;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 function makeEmptyFunction(arg) {
@@ -1048,7 +1048,7 @@ module.exports = isTextNode;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  * @typechecks static-only
  */
 
@@ -1136,7 +1136,7 @@ module.exports = performanceNow;
  * of patent rights can be found in the PATENTS file in the same directory.
  *
  * @typechecks
- * 
+ *
  */
 
 /*eslint-disable no-self-compare */
@@ -4790,7 +4790,7 @@ module.exports = CSSPropertyOperations;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -6621,7 +6621,7 @@ module.exports = EventPluginHub;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -7572,7 +7572,7 @@ module.exports = HTMLDOMPropertyConfig;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -7772,7 +7772,7 @@ module.exports = LinkedValueUtils;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -8400,7 +8400,7 @@ module.exports = ReactComponentBrowserEnvironment;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12377,7 +12377,7 @@ module.exports = ReactDOMUnknownPropertyHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12891,7 +12891,7 @@ module.exports = {
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12942,7 +12942,7 @@ module.exports = ReactEmptyComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13207,7 +13207,7 @@ module.exports = ReactEventListener;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13299,7 +13299,7 @@ module.exports = ReactHostComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13540,7 +13540,7 @@ module.exports = ReactInstanceMap;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13566,7 +13566,7 @@ module.exports = { debugTool: debugTool };
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -14647,7 +14647,7 @@ module.exports = ReactMultiChild;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -14689,7 +14689,7 @@ module.exports = ReactNodeTypes;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -14785,7 +14785,7 @@ module.exports = ReactOwner;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15288,7 +15288,7 @@ module.exports = ReactPerfAnalysis;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15314,7 +15314,7 @@ module.exports = ReactPropTypeLocationNames;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15681,7 +15681,7 @@ module.exports = ReactReconciler;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15863,7 +15863,7 @@ module.exports = ReactServerRenderingTransaction;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -17579,7 +17579,7 @@ module.exports = SelectEventPlugin;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -18654,7 +18654,7 @@ module.exports = SyntheticWheelEvent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -18908,7 +18908,7 @@ module.exports = ViewportMetrics;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -18967,7 +18967,7 @@ module.exports = accumulateInto;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19399,7 +19399,7 @@ module.exports = findDOMNode;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19476,7 +19476,7 @@ module.exports = flattenChildren;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19767,7 +19767,7 @@ module.exports = getHostComponentFromComposite;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20207,7 +20207,7 @@ module.exports = isEventSupported;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20284,7 +20284,7 @@ module.exports = quoteAttributeValueForBrowser;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 'use strict';
 
@@ -25183,7 +25183,7 @@ module.exports = ReactComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -25518,7 +25518,7 @@ module.exports = ReactComponentTreeHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -26897,7 +26897,7 @@ arguments[4][134][0].apply(exports,arguments)
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -27014,7 +27014,7 @@ module.exports = checkReactTypeSpec;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -27093,7 +27093,7 @@ arguments[4][167][0].apply(exports,arguments)
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -27572,7 +27572,7 @@ module.exports={
     "picture": "https://iramiller.com/images/profile.png",
     "email": "public@iramiller.com",
     "website": "https://iramiller.com",
-    "summary": "Ira Miller is the Founder of Guld (coming soon). Advisor to Tigo CTM, Dash, Bitt and more fantastic projects.\n\nIra has founded many technology startups, lately focused on the blockchain sector. In 2012, Ira co-founded global payment processor Coinapult, selling the company in 2015 to pursue open source collaborative projects through the Guld.\n\n",
+    "summary": "Ira Miller is the Founder of guld. Advisor to TigoCTM, DrPrx and more fantastic projects.\n\nIra has founded many technology startups, lately focused on the blockchain sector. In 2012, Ira co-founded global payment processor Coinapult, selling the company in 2015 to pursue open source collaborative projects through guld.\n\n",
     "location": {
       "city": "Panama",
       "countryCode": "PA",
@@ -27676,7 +27676,7 @@ var person = require('../people/isysd.json');
 
 // const marked = require('marked')
 // const readFile = require('fs-readfile-promise')
-var blogPost = '<h1 id="guldos-seminar">GuldOS Seminar</h1>\n<p>I am teaching a week-long class starting Nov. 19, at the <a href="https://embassypty.com">Panama Blockchain Embassy</a>. At the end of the class, you will have:</p><ul><li>A secure computer, which you compiled and customized yourself, trusting no one.</li><li>PGP (encryption) keys paired with file sharing and your email.</li><li>Private backup/recovery system for all of your mail, wallets, files, etc..</li><li>full <a href="https://bitcoin.org">Bitcoin</a> & <a href="https://dash.org">Dash</a> nodes</li><li>A prototype of the <a href="https://guld.io">GuldOS</a> decentralized filesystem</li><li>50 guld (nominally worth $500)</li><li>reserve your guld network username</li></ul><p>If you run a digital currency business, or invest significant funds in DC, this is the essential crash course in staying safe from theft, ransom-ware, and other hacks.</p><img src="https://iramiller.com/images/guld-seminar.png" style="max-width: 600px;"></img><h1 id="notice-of-email-pgp-key-change">Notice of Email &amp; PGP Key Change</h1>\n<p>I am consolidating and organizing all communication into one public and one private channel. From today forward, please contact me at <a href="public@iramiller.com">public@iramiller.com</a>, using key <code>20F44729</code>. I created one other address with the <code>iramiller.com</code> domain for my private use, but this will use the same <code>20F44729</code> key.</p>\n<ul>\n<li>public@iramiller.com</li>\n<li><a href="keydir/isysd.asc">20F44729</a></li>\n</ul>\n<h3 id="deprecated-addresses">Deprecated Addresses</h3>\n<p>The following domains and corresponding email addresses are being phased out. Emails going to these addresses will be forwarded.</p>\n<ul>\n<li>deginner.com</li>\n<li>gitguild.com</li>\n</ul>\n<p>Additionally, I am no longer using the following addresses, though the domains remain active. Emails going here may be forwarded, and will be answered slowly.</p>\n<ul>\n<li><a href="https://coinapult.com">coinapult.com</a></li>\n<li><a href="https://fi.co">founderinstitute.net</a></li>\n<li><a href="https://gmail.com">gmail.com</a></li>\n</ul>\n<h3 id="deprecated-keys">Deprecated Keys</h3>\n<p>Finally, the following PGP keys are deprecated. I will never use any of them again to sign or encrypt communication. If you receive a message signed or encrypted with one of these keys, treat it as if you did not know it was from me.</p>\n<ul>\n<li>9DAD2C03</li>\n<li>6CD2F41F</li>\n<li>638DA742</li>\n<li>B5D3D208</li>\n<li>4E4FBA61</li>\n<li>5C3586F6</li>\n</ul>\n<h3 id="signatures">Signatures</h3>\n<p>The only valid key for the next ~3 years, or until I post another Notice of Change, will be <code>20F44729</code>. You can find the full ascii-armored key <a href="keydir/isysd.asc">here</a>. The source code for this notice (<a href="src/KeyChange.md">KeyChange.md</a>) was signed with <a href="signatures/KeyChange.md.20F44729.asc">20F44729</a>, as well as <a href="signatures/KeyChange.md.5C3586F6.asc">5C3586F6</a>, and <a href="signatures/KeyChange.md.6CD2F41F.asc">6CD2F41F</a>.</p>';
+var blogPost = '<h1 id="notice-of-email-pgp-key-change">Notice of Email &amp; PGP Key Change</h1>\n<p>I am consolidating and organizing all communication into one public and one private channel. From today forward, please contact me at <a href="public@iramiller.com">public@iramiller.com</a>, using key <code>20F44729</code>. I created one other address with the <code>iramiller.com</code> domain for my private use, but this will use the same <code>20F44729</code> key.</p>\n<ul>\n<li>public@iramiller.com</li>\n<li><a href="keydir/isysd.asc">20F44729</a></li>\n</ul>\n<h3 id="deprecated-addresses">Deprecated Addresses</h3>\n<p>The following domains and corresponding email addresses are being phased out. Emails going to these addresses will be forwarded.</p>\n<ul>\n<li>deginner.com</li>\n<li>gitguild.com</li>\n</ul>\n<p>Additionally, I am no longer using the following addresses, though the domains remain active. Emails going here may be forwarded, and will be answered slowly.</p>\n<ul>\n<li><a href="https://coinapult.com">coinapult.com</a></li>\n<li><a href="https://fi.co">founderinstitute.net</a></li>\n<li><a href="https://gmail.com">gmail.com</a></li>\n</ul>\n<h3 id="deprecated-keys">Deprecated Keys</h3>\n<p>Finally, the following PGP keys are deprecated. I will never use any of them again to sign or encrypt communication. If you receive a message signed or encrypted with one of these keys, treat it as if you did not know it was from me.</p>\n<ul>\n<li>9DAD2C03</li>\n<li>6CD2F41F</li>\n<li>638DA742</li>\n<li>B5D3D208</li>\n<li>4E4FBA61</li>\n<li>5C3586F6</li>\n</ul>\n<h3 id="signatures">Signatures</h3>\n<p>The only valid key for the next ~3 years, or until I post another Notice of Change, will be <code>20F44729</code>. You can find the full ascii-armored key <a href="keydir/isysd.asc">here</a>. The source code for this notice (<a href="src/KeyChange.md">KeyChange.md</a>) was signed with <a href="signatures/KeyChange.md.20F44729.asc">20F44729</a>, as well as <a href="signatures/KeyChange.md.5C3586F6.asc">5C3586F6</a>, and <a href="signatures/KeyChange.md.6CD2F41F.asc">6CD2F41F</a>.</p>';
 
 var Sidebar = function Sidebar() {
   return _react2.default.createElement(
