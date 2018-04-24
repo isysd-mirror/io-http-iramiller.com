@@ -27569,7 +27569,7 @@ module.exports={
   "basics": {
     "name": "Ira Miller",
     "label": "Wizard of Magic Internet Money",
-    "picture": "https://iramiller.com/images/profile.png",
+    "picture": "https://iramiller.com/images/duende.png",
     "email": "public@iramiller.com",
     "website": "https://iramiller.com",
     "summary": "Ira Miller is the Founder of guld. Advisor to TigoCTM, DrPrx and more fantastic projects.\n\nIra has founded many technology startups, lately focused on the blockchain sector. In 2012, Ira co-founded global payment processor Coinapult, selling the company in 2015 to pursue open source collaborative projects through guld.\n\n",
