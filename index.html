@@ -1,24 +1,316 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
+
 <head>
-    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <meta content="utf-8" http-equiv="encoding">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ira Miller - Wizard of Magic Internet Money</title>
-    <link href="css/app.css" rel="stylesheet" type="text/css">
-    <!--<link href="bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="tether.css" rel="stylesheet" type="text/css">-->
-    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16">
-    <link rel="mask-icon" href="images/safari-pinned-tab.svg" color="#5bbad5">
+    <title>guld documentation</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+        crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+
+    <style>
+        a {
+            color: #0653a7;
+        }
+
+        .navbar {
+            padding: 0;
+            color: #c3ac50;
+            font-weight: 200;
+            border-bottom: 0.1rem solid #bbb18d;
+        }
+
+        .navbar h1 {
+            margin: 0;
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        #content {
+            margin-top: 2rem;
+        }
+
+        .logo {
+            font-size: 2rem;
+            color: #a99549;
+            font-weight: 300;
+        }
+
+        .logo img {
+            width: 3rem;
+        }
+
+        .logo b {
+            font-weight: 400;
+        }
+
+        .list-group ul {
+            border: solid #f7f7f9;
+        }
+
+        .list-group ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        .list-group li {
+            position: relative;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-flow: row wrap;
+            -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-appearance: button;
+        }
+
+        .list-group li a {
+            padding: .75rem 1.25rem;
+            margin-bottom: -1px;
+            background-color: #fff;
+            border: 1px solid rgba(0, 0, 0, .125);
+        }
+
+        .list-group li a {
+            width: 100%;
+            color: #464a4c;
+            text-align: inherit;
+        }
+
+
+        .list-group li:first-child a {
+            border-top-right-radius: .25rem;
+            border-top-left-radius: .25rem;
+        }
+
+        .list-group li:last-child a {
+            margin-bottom: 0;
+            border-bottom-right-radius: .25rem;
+            border-bottom-left-radius: .25rem;
+        }
+
+        .list-group li a.active {
+            z-index: 2;
+            color: #fff;
+            background-color: #bbb18c;
+            border-color: #a9933b;
+        }
+
+        .list-group li a:focus,
+        .list-group li a:hover {
+            color: #464a4c;
+            text-decoration: none;
+            background-color: #f7f7f9;
+        }
+
+        #cover {
+            width: 100%;
+            height: 100%;
+            page-break-after: always;
+            position: relative;
+            text-align: center;
+            padding-top: 40%;
+        }
+
+        #cover .logo img {
+            width: 10rem;
+        }
+
+        #cover ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #cover a {
+            display: none;
+        }
+
+        #cover a.active {
+            font-size: 6rem;
+            font-weight: 300;
+            color: #b6b4b4;
+            position: relative;
+            top: -2rem;
+            display: block
+        }
+    </style>
 </head>
+
 <body>
-  <div id='gapp'> </div>
-  <!--<script type="application/javascript" src="jquery.min.js"></script>
-  <script type="application/javascript" src="tether.js"></script>
-  <script type="application/javascript" src="bootstrap.js"></script>-->
-  <script type="application/javascript" src="js/gapp.js"></script>
+    <div id="cover" class="d-print-block">
+        <span class="logo">
+            <img src="logo.svg" class="img-responsive" alt="Guld">
+        </span>
+        <ul>
+<li><a class="active" href="index.html">index</a></li>
+</ul>
+    </div>
+    <header class="header d-print-none">
+        <!-- Navigation -->
+        <nav class="navbar main-menu" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <h1 id="logo">
+                        <a class="navbar-brand page-scroll" href="#page-top">
+                            <span class="logo">
+                                <img src="profile.jpg" class="img-responsive" alt="ISYSD"> isysd
+                            </span>
+                        </a>
+                    </h1>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="navbar-right">
+                    Birthday ICO
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+        <!-- .nav -->
+    </header>
+
+    <section id="content" class="container">
+
+        <div class="row row-offcanvas row-offcanvas-left">
+
+            <div class="col-6 col-md-3 sidebar-offcanvas d-print-none" id="sidebar">
+                <div class="list-group">
+                    <ul>
+<li><a class="active" href="index.html">index</a></li>
+</ul>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-9">
+                <h1>Birthday ICO</h1>
+<h3>Status</h3>
+<p>0 ISYSD has been sold so far.</p>
+<pre><code>2018/07/23 Equity Report
+    zimmi:Assets:ICO:1             0 ISYSD
+</code></pre>
+<h3>Price</h3>
+<p>Ira (through Zimmi) is offering 1000 <code>ISYSD</code> for sale at $250 or equivalent in <code>ETH</code>, <code>BTC</code>, or <code>DASH</code>.</p>
+<pre><code>2018/07/23 * Zimmi offers 1000 ISYSD for sale at $250/ISYSD
+    zimmi:Assets                    -1000 ISYSD
+    zimmi:Assets:ICO:1             1000 ISYSD
+</code></pre>
+<p>Ira (through Zimmi) is offering a second tranche of 1000 <code>ISYSD</code> for sale at $1000 or equivalent in <code>ETH</code>, <code>BTC</code>, or <code>DASH</code>.</p>
+<pre><code>2018/07/23 * Zimmi offers 1000 ISYSD for sale at $1000/ISYSD
+    zimmi:Assets                    -1000 ISYSD
+    zimmi:Assets:ICO:2             1000 ISYSD
+</code></pre>
+<h3>Who</h3>
+<p>Ira Miller aka <code>isysd</code> is the founder and chief scientist of <a href="https://guld.io">guld</a>. Father of little hacker girl. 31 years old on July 23, 2018.</p>
+<pre><code>1987/07/23 * isysd birth to 31y
+    isysd:Equity:isysd                    -271560 ISYSD
+    isysd:Expenses:prehistory             271560 ISYSD
+</code></pre>
+<h3>What</h3>
+<p>Ira is issuing <code>ISYSD</code>, a digital token, redeemable for 1 standard hour of professional time.</p>
+<pre><code>commodity ISYSD
+    ; value 1h of professional time from guld member isysd
+    value 1h
+</code></pre>
+<p><code>ISYSD</code> is a personal ledger on <a href="https://guld.io">guld</a>. Personal ledgers are time based, and can only be mined 24 hours at a time, just like real life.</p>
+<pre><code>; Daily budget of how ISYSD is generated
+~ Daily
+    ; Earn 24 hours in Assets out of Equity (lifespan)
+    isysd:Equity                      -24 ISYSD
+    isysd:Assets                      24 ISYSD
+</code></pre>
+<h3>When</h3>
+<p>Starting on his birthday, Ira is contracting 2 years of his future time to a services company, Zimmi S.A., which has registered as a group on the <a href="https://guld.io">guld</a> blocktree.</p>
+<pre><code>2018/07/23 * isysd pre-generate 2 years of professional work, and contract to Zimmi group
+    isysd:Liabilities               -4000 ISYSD
+    isysd:Expenses:zimmi             4000 ISYSD
+    zimmi:Assets                     4000 ISYSD
+    zimmi:Income:isysd                -4000 ISYSD
+</code></pre>
+<h3>Redeeming ISYSD</h3>
+<p><code>ISYSD</code> can only be redeemed through contracts registered on <a href="https://guld.io">guld</a>.</p>
+<table>
+<thead>
+<tr>
+<th>Redeption Contract</th>
+<th>Weekly Budget</th>
+<th>Minimum Purchase</th>
+<th>Price / Hour</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Professional Flex</td>
+<td>30 hours</td>
+<td>40 hours</td>
+<td>1 ISYSD</td>
+</tr>
+<tr>
+<td>3 Minute Selfie</td>
+<td>1 hour</td>
+<td>3 minutes</td>
+<td>20 ISYSD</td>
+</tr>
+<tr>
+<td>Advising guld</td>
+<td>10 hours</td>
+<td>30 minutes</td>
+<td>2 ISYSD</td>
+</tr>
+<tr>
+<td>30 Minute 1 Topic</td>
+<td>5 hours</td>
+<td>30 minutes</td>
+<td>10 ISYSD</td>
+</tr>
+<tr>
+<td>30 Minute 1 Topic Topless</td>
+<td>5 hours</td>
+<td>30 minutes</td>
+<td>100 ISYSD</td>
+</tr>
+<tr>
+<td>Speach</td>
+<td>2 hours</td>
+<td>30 minutes</td>
+<td>50 ISYSD</td>
+</tr>
+<tr>
+<td>Cook &amp; Serve Dinner</td>
+<td>2 hours</td>
+<td>2 hours</td>
+<td>500 ISYSD</td>
+</tr>
+</tbody>
+</table>
+<pre><code>; Weekly budget of how ISYSD can be redeemed
+~ Weekly
+    isysd:Income:zimmi:flex           -30h @ 1 ISYSD
+    isysd:Income:zimmi:3m:Selfie          -1h @ 10 ISYSD
+    isysd:Income:zimmi:guld           -10h @ 2 ISYSD
+    isysd:Income:zimmi:30m:Calls       -5h @ 10 ISYSD
+    isysd:Income:zimmi:30m:Calls:Topless   -5h @ 100 ISYSD
+    isysd:Income:zimmi:speaking        -2h @ 100 ISYSD
+    isysd:Liabilities
+</code></pre>
+
+            </div>
+        </div>
+
+    </section>
+
 </body>
+
 </html>
