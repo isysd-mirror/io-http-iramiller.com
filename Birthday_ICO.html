@@ -128,7 +128,20 @@
     zimmi:Assets:ICO:2             1000 ISYSD
 </code></pre>
 <h3>Who</h3>
-<p>After founding his first crypto startup, <a href="https://web.archive.org/web/20110507014557/http://www.bitmunchies.com:80/">Bitmunchies</a>, when bitcoin was $0.35, Ira went on to co-found <a href="https://coinapult.com">Coinapult</a> when bitcoin was $3. He left Coinapult when bitcoin was $300 to pursue the ultimate crypto dream of <a href="https://guld.io">a free internet</a>.</p>
+<h5>Ira</h5>
+<p>After founding his first crypto startup, <a href="https://web.archive.org/web/20110507014557/http://www.bitmunchies.com:80/">Bitmunchies</a>, when bitcoin was $0.35, Ira went on to co-found <a href="https://coinapult.com">Coinapult</a> when bitcoin was $3. He left Coinapult when bitcoin was $300 to pursue the ultimate crypto dream of <a href="https://www.youtube.com/watch?v=F4RgJl6KRxk">a free internet</a>.</p>
+<h5>Team</h5>
+<p>Ira can’t do this (or anything) without a little help from his friends. 10% of the funds raised will be given to the friends who assist Ira with the ICO.</p>
+<pre><code>= isysd:Income:zimmi
+    isysd:Assets:Payable:ICO-Friends   0.1
+    isysd:Assets   -0.1
+</code></pre>
+<h5>Charity</h5>
+<p>10% of the funds raised will be given to charities (US 501c3). The first choice charity will be <a href="http://www.unsung.org/">Unsung</a>, “the sharing economy to redistribute existing abundance to those who need it most.”</p>
+<pre><code>= isysd:Income:zimmi
+    unsung:Assets   0.1
+    unsung:Income:Donations:isysd   -0.1
+</code></pre>
 <h5>Zimmi S.A.</h5>
 <p>Starting on his birthday, Ira is contracting 2 years of his future time to a services company, Zimmi S.A., which has registered as the zimmi group on the <a href="https://guld.io">guld</a> blocktree. All sales and redemptions must happen through zimmi.</p>
 <pre><code>2018/07/23 * isysd pre-generate 2 years of professional work, and contract to Zimmi group
