@@ -1,9 +1,8 @@
 pre {
     display: none;
-}
-
-pre.visible {
-    display: block;
+    background-color: #e9ecef !important;
+    margin-top: 1em;
+    padding: 5px;
 }
 
 #wrapper {
