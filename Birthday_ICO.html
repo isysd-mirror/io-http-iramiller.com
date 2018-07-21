@@ -85,20 +85,22 @@
                         <div class="row row-offcanvas row-offcanvas-left">
                             <div class="col">
                                 <h1>Birthday ICO</h1>
+                                <!--
                                 <h4>Amount Raised</h4>
                                 <p>0 ISYSD has been sold so far.</p>
                                 <pre><code>2018/07/23 Equity Report
-                    zimmi:Assets:ICO:1             0 ISYSD
+    zimmi:Assets:ICO:1             0 ISYSD
                 </code></pre>
+                -->
                                 <h4>Price</h4>
                                 <p>1000 <code>ISYSD</code> are for sale at $250 or equivalent in <code>ETH</code>, <code>BTC</code>, or <code>DASH</code>. Another 1000 <code>ISYSD</code> are for sale at the higher price of $1000.</p>
                                 <pre><code>2018/07/23 * Zimmi offers 1000 ISYSD for sale at $250/ISYSD
-                    zimmi:Assets                    -1000 ISYSD
-                    zimmi:Assets:ICO:1             1000 ISYSD
+    zimmi:Assets                    -1000 ISYSD
+    zimmi:Assets:ICO:1             1000 ISYSD
 
-                2018/07/23 * Zimmi offers 1000 ISYSD for sale at $1000/ISYSD
-                    zimmi:Assets                    -1000 ISYSD
-                    zimmi:Assets:ICO:2             1000 ISYSD
+2018/07/23 * Zimmi offers 1000 ISYSD for sale at $1000/ISYSD
+    zimmi:Assets                    -1000 ISYSD
+    zimmi:Assets:ICO:2             1000 ISYSD
                 </code></pre>
                                 <h2>ISYSD</h2>
                                 <div class="card bg-primary" style="float: left; margin: 10px;">
@@ -120,17 +122,17 @@
                                 <p>At 1am, in the 271,561st hour of his life, he will metamorphize into the first Decentralized Man.</p>
                                 <p>By mining 24 personal <a href="https://github.com/isysd/ledger-ISYSD/blob/isysd/definition.ledger"><code>ISYSD</code></a> tokens per day, Ira will be able to track his life on the blockchain. His first act will be giving the majority to his family, especially 2 year old Gigi and ferret Lily.</p>
                                 <pre><code>commodity ISYSD
-                    ; value 1h of time from guld member isysd
-                    value 1h
+    ; value 1h of time from guld member isysd
+    value 1h
 
-                ; Daily budget of how ISYSD is generated
-                ~ Daily
-                    ; Earn 24 hours in Assets out of Equity (lifespan)
-                    isysd:Equity                      -24 ISYSD
-                    isysd:Assets                      24 ISYSD
-                </code></pre>
+; Daily budget of how ISYSD is generated
+~ Daily
+    ; Earn 24 hours in Assets out of Equity (lifespan)
+    isysd:Equity                      -24 ISYSD
+    isysd:Assets                      24 ISYSD
+</code></pre>
 
-                                <h4>Advisors</h4>
+                                <h4 id="advisors">Advisors</h4>
                                 <p>Ira can’t do this (or anything) without a little help from his friends. 10% of the funds raised will be given to the friends who assist Ira with the ICO.</p>
                                 <pre><code>= isysd:Income:zimmi
                     isysd:Assets:Payable:ICO-Friends   0.1
@@ -223,12 +225,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                <h4>Charity</h4>
+                                <h4 id="charity">Charity</h4>
                                 <p>10% of the funds raised will be given to charities (US 501c3). The first choice charity will be , “the sharing economy to redistribute existing abundance to those who need it most.”</p>
                                 <pre><code>= isysd:Income:zimmi
-                    unsung:Assets   0.1
-                    unsung:Income:Donations:isysd   -0.1
-                </code></pre>
+    isysd:Assets:Payable:Charities   0.1
+</code></pre>
                                 <div class="card-deck">
                                     <div class="card bg-secondary">
                                         <a href="http://www.unsung.org/">
@@ -278,12 +279,12 @@
                                 <h4>Zimmi S.A.</h4>
                                 <p>Starting on his birthday, Ira is contracting 2 years of his future time to a services company, Zimmi S.A., which has registered as the zimmi group on the <a href="https://guld.io">guld</a> blocktree. All sales and redemptions must happen through zimmi.</p>
                                 <pre><code>2018/07/23 * isysd pre-generate 2 years of professional work, and contract to Zimmi group
-                    isysd:Liabilities               -4000 ISYSD
-                    isysd:Expenses:zimmi             4000 ISYSD
-                    zimmi:Assets                     4000 ISYSD
-                    zimmi:Income:isysd                -4000 ISYSD
-                </code></pre>
-                                <h2>Fine Print</h2>
+    isysd:Liabilities               -4000 ISYSD
+    isysd:Expenses:zimmi             4000 ISYSD
+    zimmi:Assets                     4000 ISYSD
+    zimmi:Income:isysd                -4000 ISYSD
+</code></pre>
+                                <h2 id="fine-print">Fine Print</h2>
                                 <h4>Redeeming ISYSD</h4>
                                 <p><code>ISYSD</code> can only be redeemed through contracts registered on <a href="https://guld.io">guld</a>.</p>
                                 <table>
@@ -347,15 +348,17 @@
                                     </tbody>
                                 </table>
                                 <pre><code>; Weekly budget of how ISYSD can be redeemed
-                ~ Weekly
-                    isysd:Income:zimmi:flex           -30h @ 1 ISYSD
-                    isysd:Income:zimmi:3m:Selfie          -1h @ 10 ISYSD
-                    isysd:Income:zimmi:guld           -10h @ 2 ISYSD
-                    isysd:Income:zimmi:30m:Calls       -5h @ 10 ISYSD
-                    isysd:Income:zimmi:30m:Calls:Topless   -5h @ 100 ISYSD
-                    isysd:Income:zimmi:speaking        -2h @ 100 ISYSD
-                    isysd:Liabilities
-                </code></pre>
+  ~ Weekly
+      isysd:Income:zimmi:flex           -30h @ 1 ISYSD
+      isysd:Income:zimmi:3m:Selfie          -1h @ 20 ISYSD
+      isysd:Income:zimmi:guld           -10h @ 2 ISYSD
+      isysd:Income:zimmi:30m:Calls       -5h @ 10 ISYSD
+      isysd:Income:zimmi:30m:Calls:Topless   -5h @ 100 ISYSD
+      isysd:Income:zimmi:speech        -2h @ 50 ISYSD
+      isysd:Income:zimmi:ishavebeard        -1h @ 1000 ISYSD
+      isysd:Income:zimmi:youshavebeard        -1h @ 10000 ISYSD
+      isysd:Liabilities
+  </code></pre>
 
                             </div>
                         </div>
