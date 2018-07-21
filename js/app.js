@@ -8,3 +8,7 @@ function toggleLedgers () {
   }
 }
 
+function showAddress (code) {
+  if (code === 'ETH') {
+  }
+}

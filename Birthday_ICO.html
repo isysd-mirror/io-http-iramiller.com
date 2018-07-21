@@ -25,7 +25,22 @@
 <body>
     <div class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
         <div class="container">
-            <a href="#" class="navbar-brand">Home</a>
+            <ul class="nav navbar-nav ml-auto">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Buy ISYSD
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" data-toggle="modal" data-target="#dash">DASH</a>
+                  <a class="dropdown-item" data-toggle="modal" data-target="#eth">ETH</a>
+                  <a class="dropdown-item" data-toggle="modal" data-target="#btc">BTC</a>
+                  <!--
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="#">Bank Wires</a>
+                  -->
+                </div>
+              </li>
+            </ul>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -93,7 +108,7 @@
                 </code></pre>
                 -->
                                 <h4>Price</h4>
-                                <p>1000 <code>ISYSD</code> are for sale at $250 or equivalent in <code>ETH</code>, <code>BTC</code>, or <code>DASH</code>. Another 1000 <code>ISYSD</code> are for sale at the higher price of $1000.</p>
+                                <p>1000 <code>ISYSD</code> are for sale at $250 or equivalent in <code><a data-toggle="modal" data-target="#eth">ETH</a></code>, <code><a data-toggle="modal" data-target="#btc">BTC</a></code>, or <code><a data-toggle="modal" data-target="#dash">DASH</a></code>. Another 1000 <code>ISYSD</code> are for sale at the higher price of $1000.</p>
                                 <pre><code>2018/07/23 * Zimmi offers 1000 ISYSD for sale at $250/ISYSD
     zimmi:Assets                    -1000 ISYSD
     zimmi:Assets:ICO:1             1000 ISYSD
@@ -429,6 +444,84 @@
                 </div>
             </section>
         </div>
+    </div>
+
+    <!-- BTC Modal -->
+    <div class="modal fade" id="btc" tabindex="-1" role="dialog" aria-labelledby="btcTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="btcBuyTitle">Buy With Bitcoin</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <a href="bitcoin://1HcsB8bKB6tVMcYLnixjRrFzxiqMn44r4x">
+            <div class="card bg-secondary">
+              <div class="card-block">
+                  <h4 class="card-title">1HcsB8bKB6tVMcYLnixjRrFzxiqMn44r4x</h4>
+              </div>                                          
+              <div class="text-center mt-3">
+                  <img width="100%" src="images/btc.jpg" alt="1HcsB8bKB6tVMcYLnixjRrFzxiqMn44r4x" class="card-img-top">
+              </div>
+            </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ETH Modal -->
+    <div class="modal fade" id="eth" tabindex="-1" role="dialog" aria-labelledby="ethTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="ethBuyTitle">Buy With Ether</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <a href="ethereum://0xb6585cD2a3D4ab6568dD607b154eaC688D5f0C2d">
+            <div class="card bg-secondary">
+              <div class="card-block">
+                  <h4 class="card-title">0xb6585cD2a3D4ab6568dD607b154eaC688D5f0C2d</h4>
+              </div>                                          
+              <div class="text-center mt-3">
+                  <img width="100%" src="images/eth.jpg" alt="0xb6585cD2a3D4ab6568dD607b154eaC688D5f0C2d" class="card-img-top">
+              </div>
+            </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- DASH Modal -->
+    <div class="modal fade" id="dash" tabindex="-1" role="dialog" aria-labelledby="dashTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="dashBuyTitle">Buy With Dash</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <a href="dash://Xie5ZLAaBkXHeVh3qdhJ4jkX4gYMGJfJ2q">
+            <div class="card bg-secondary">
+              <div class="card-block">
+                  <h4 class="card-title">Xie5ZLAaBkXHeVh3qdhJ4jkX4gYMGJfJ2q</h4>
+              </div>                                          
+              <div class="text-center mt-3">
+                  <img width="100%" src="images/dash.jpg" alt="Xie5ZLAaBkXHeVh3qdhJ4jkX4gYMGJfJ2q" class="card-img-top">
+              </div>
+            </div>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
 
     <script src="js/jquery.min.js"></script>
