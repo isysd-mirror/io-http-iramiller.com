@@ -8,7 +8,12 @@ function toggleLedgers () {
   }
 }
 
-function showAddress (code) {
-  if (code === 'ETH') {
-  }
+function sendProofOfAddress () {
+  var address = document.getElementById("signing-address").value
+  var message = document.getElementById("signed-message").value
+  var signature = document.getElementById("signature").value
+  window.open(`mailto:public@iramiller.com?subject=Proof Of Address ${address}&body=${address}
+${message}
+signature`, 'emailWindow')
 }
+
