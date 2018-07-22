@@ -71,12 +71,15 @@ a:not([href]):not([tabindex]) {
 .card-title td {
   padding-right: 1em
 }
+
 .card-title {
 	padding: 10px;
 }
+
 .card-img-top{
-	width: 40% !important;
+	width: 90% !important;
 }
+
 a {
 	cursor: pointer;
 }
