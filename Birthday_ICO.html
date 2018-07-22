@@ -37,17 +37,13 @@
                         <a class="nav-link" href="https://t.me/birthdayico" target="_blank">Chat</a>
                     </li>
                     <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Buy
-                      </a>
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Buy</a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" data-toggle="modal" data-target="#dash">DASH</a>
                         <a class="dropdown-item" data-toggle="modal" data-target="#eth">ETH</a>
                         <a class="dropdown-item" data-toggle="modal" data-target="#btc">BTC</a>
-                        <!--
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#bank">Bank Transfer</a>
-                        -->
+                        <a class="dropdown-item" data-toggle="modal" data-target="#bank">Bank Transfer</a>
                       </div>
                     </li>
                 </ul>
@@ -551,6 +547,40 @@
               <div class="card-block">
                   <h6 class="card-title alert-success"><br>Your ISYSD will be credited at the exchange rate given by <a href="https://coinmarketcap.com" target="_blank">coinmarketcap</a> at the start of the 10 minute window when the transaction is first witnessed by isysd, or when the first confirmation is received, whichever is first.</h6>
                   <h6 class="card-title alert-danger"><br>WARNING: You will be asked to provide <a href="#proveAddress">Proof of Address</a> to claim your ISYSD. You must have access to the private key of the sending address and must be able to sign your <a href="https://guld.io">guld</a> username with it.</h6>
+              </div>                                          
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bank Modal -->
+    <div class="modal fade" id="bank" tabindex="-1" role="dialog" aria-labelledby="bankTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="bankBuyTitle">Buy With US$</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="card bg-secondary">
+              <div class="card-block">
+                  <h4 class="card-title">Send Bank transfers to Ira's mother, Patricia.</h4>
+                  <h6 class="card-title">
+                    <table>
+                      <tr><td>Bank</td><td>United Community Bank</td></tr>
+                      <tr><td>Bank Address</td><td>Springfield IL, USA</td></tr>
+                      <tr><td>Routing #</td><td>071108407</td></tr>
+                      <tr><td>Account #</td><td>10576487</td></tr>
+                      <tr><td>Account type</td><td>Checking</td></tr>
+                      <tr><td>Beneficiary</td><td>Patricia Miller</td></tr>
+                    </table>
+                  </h6>
+              </div>                                          
+              <div class="card-block">
+                  <h6 class="card-title alert-warning"><br>Please put `ISYSD` and your guld username (if you have one) in the memo. <br>Your ISYSD will be credited at the transaction timestamp, as given by the receiving bank. If no tranche 1 ($250) coins are available, the tranche 2 price ($1000) will automatically be applied.<br>If you are concerned about missing out on tranche 1 prices, <a href="mailto:public@iramiller.com">email me</a> a screenshot of the transfer to receive the price at the time Ira or Patricia witnesses your transfer.</h6>
               </div>                                          
             </div>
           </div>
