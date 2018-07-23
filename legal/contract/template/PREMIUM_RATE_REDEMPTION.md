@@ -5,22 +5,18 @@ Effective Date: _______ TIME_START
 1.1. This contract Is between ___________ PARTY1_NAME,______ PARTY1_KEY, in LOCATION1, and ____________ PARTY2_NAME,______ PARTY2_KEY located in ____________ LOCATION2.
 
 2. Purpose
-2.1. The purpose of this contract is to hire PARTY1_NAME for topless meetings. The location and method of conducting the meeting shall be chosen at the discretion of PARTY1_NAME. The meeting shall be conducted at _____LOCATION_CHOSEN. The method of conducting the meeting shall be _________MEETING_METHOD.   
-2.1.1. Audio only meetings are prohibited under this agreement.
-2.2. The purchase of one (1) increment results in a thirty (30) minute meeting on one (1) single subject where PARTY1_NAME agrees to conduct the meeting while topless. The thirty (30) minute meeting shall follow this time frame:  
-	2.2.1 The first five (5) minutes shall be reserved for PARTY1_NAME to review any materials provided by PARTY2_NAME needed for the meeting.  
-2.2.2 The following twenty (20) minutes shall be reserved for open discussion and answering questions related to the one (1) topic chosen by PARTY2_NAME.
-2.2.3. The final five (5) minutes shall be reserved for closing the discussion and allowing time for any follow-up arrangements.  
+
+The purpose of this contract is for PARTY1_NAME to perform _________SERVICES , to be started on _______ TIME_START and completed on ________ TIME_EXPIRE. _____________ SERVICES1 shall be performed at___________ LOCATION_CHOSEN.
 
 3. Payment
 
-____________ PARTY2_NAME agrees to pay _____ PRICE_TOTAL in ______ PARTY1_TOKENS for a topless meeting with PARTY1_NAME.
+____________ PARTY2_NAME agrees to pay _____ PRICE_TOTAL in ______ PARTY1_TOKENS for ______ SERVICES1.
 
 4. Redemption
-4.1 The rate for a meeting with PARTY1_NAME is _____ RATE _____ PARTY1_TOKENS per one (1) hour. A meeting can be purchased in thirty (30) minute increments. The minimum purchase is one (1) increment. If minimum purchase is not met, the redemption shall be vetoed.   
-4.2 PARTY2_NAME agrees to purchase a meeting at  _____ RATE and ____ increments.   
-4.3 In order to redeem ______ PARTY1_TOKENS, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.   
-4.4 PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
+4.1. Redemptions are made at a custom hourly rate ____ RATE where RATE is denominated in ______ PARTY1_TOKENS.
+4.2. In order to redeem ______ PARTY1_TOKENS, ______ PARTY2_NAME shall sign and submit a proposal to _____ PARTY1_EMAIL.
+4.3. _____ PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
+4.4. Redemptions are subject to a minimum redemption purchase value. If minimum purchase is not met, the redemption shall be vetoed.
 
 5. Amendments
 5.1. Any amendments to this Agreement shall be made in writing and signed cryptographically by both parties, including the amendments to the writing requirement stated in this provision.
